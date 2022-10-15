@@ -1,3 +1,5 @@
+package com.juaracoding.ujiankedua;
+
 public class Account {
 
 	int acc_no;
